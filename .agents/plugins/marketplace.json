@@ -1,0 +1,20 @@
+{
+  "name": "pbmanager-team",
+  "interface": {
+    "displayName": "Pbmanager Team"
+  },
+  "plugins": [
+    {
+      "name": "pbmanager-ai-smm",
+      "source": {
+        "source": "local",
+        "path": "./plugins/pbmanager-ai-smm"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

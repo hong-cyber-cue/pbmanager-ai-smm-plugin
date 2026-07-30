@@ -1,0 +1,28 @@
+{
+  "name": "pbmanager-ai-smm",
+  "version": "2.0.0",
+  "description": "Discuss PBmanager AI-SMM weekly and same-day planning tasks in Codex and return review-only proposals to Laravel.",
+  "author": {
+    "name": "PBmanager"
+  },
+  "homepage": "https://pbmanager.team",
+  "repository": "https://github.com/hong-cyber-cue/pbn-manager-laravel",
+  "keywords": ["ai-smm", "social-media", "planning", "laravel"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PBmanager AI-SMM",
+    "shortDescription": "Plan PBmanager social content with Laravel context.",
+    "longDescription": "Loads the exact PBmanager weekly or same-day task selected by a signed-in Laravel member, supports operator discussion in Codex, and returns only a review-ready proposal.",
+    "developerName": "PBmanager",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "websiteURL": "https://pbmanager.team",
+    "defaultPrompt": [
+      "Open the PBmanager task supplied by Laravel.",
+      "Review this week's campaign strategy.",
+      "Discuss today's adaptive content."
+    ],
+    "brandColor": "#0891B2"
+  },
+  "mcpServers": "./.mcp.json"
+}

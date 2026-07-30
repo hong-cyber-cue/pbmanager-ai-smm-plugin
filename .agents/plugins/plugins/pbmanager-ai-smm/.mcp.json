@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pbmanager_ai_smm": {
+      "type": "http",
+      "url": "https://pbmanager.team/api/ai-smm/codex-plugin/mcp"
+    }
+  }
+}
