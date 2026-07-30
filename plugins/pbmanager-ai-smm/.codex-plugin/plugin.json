@@ -1,6 +1,6 @@
 {
   "name": "pbmanager-ai-smm",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Discuss PBmanager AI-SMM weekly and same-day planning tasks in Codex and return review-only proposals to Laravel.",
   "author": {
     "name": "PBmanager"
