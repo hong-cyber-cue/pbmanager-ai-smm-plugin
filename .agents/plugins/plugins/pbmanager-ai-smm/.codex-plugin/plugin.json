@@ -6,7 +6,7 @@
     "name": "PBmanager"
   },
   "homepage": "https://pbmanager.team",
-  "repository": "https://github.com/hong-cyber-cue/pbn-manager-laravel",
+  "repository": "https://github.com/hong-cyber-cue/pbmanager-ai-smm-plugin",
   "keywords": ["ai-smm", "social-media", "planning", "laravel"],
   "skills": "./skills/",
   "interface": {
